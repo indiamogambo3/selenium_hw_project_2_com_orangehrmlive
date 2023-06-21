@@ -62,7 +62,7 @@ public class LoginTestWithChromeBrowser {
         password.sendKeys("Mogambo123");
 
         //close the driver
-       // driver.close();
+        driver.close();
     }
 
 }
